@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\",
+  "WorkspaceRootPath": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_danilau_lab2\\myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_danilau_lab2\\myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_danilau_lab2\\myproject\\customexception\\itemnotfounexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_danilau_lab2\\myproject\\customexception\\itemnotfounexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|solutionrelative:customexception\\itemnotfounexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_danilau_lab2\\myproject\\contracts\\itelephonestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_danilau_lab2\\myproject\\contracts\\itelephonestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|solutionrelative:contracts\\itelephonestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_danilau_lab2\\myproject\\collection\\mycustoncollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_danilau_lab2\\myproject\\collection\\mycustoncollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|solutionrelative:collection\\mycustoncollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_danilau_lab2\\myproject\\entities\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_danilau_lab2\\myproject\\entities\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|solutionrelative:entities\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_danilau_lab2\\myproject\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_danilau_lab2\\myproject\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|solutionrelative:entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_danilau_lab2\\myproject\\entities\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_danilau_lab2\\myproject\\entities\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|solutionrelative:entities\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_danilau_lab2\\myproject\\entities\\tarrif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_danilau_lab2\\myproject\\entities\\tarrif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|solutionrelative:entities\\tarrif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_danilau_lab2\\myproject\\entities\\telephonestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_danilau_lab2\\myproject\\entities\\telephonestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|solutionrelative:entities\\telephonestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_danilau_lab2\\myproject\\interfaces\\icustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_danilau_lab2\\myproject\\interfaces\\icustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|solutionrelative:interfaces\\icustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_danilau_lab2\\myproject\\myproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|c:\\users\\dimad\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_danilau_lab2\\myproject\\myproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{88A10130-F161-4D7A-B20C-EB2B42763862}|MyProject.csproj|solutionrelative:myproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -54,150 +54,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ICustomCollection.cs",
-              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Interfaces\\ICustomCollection.cs",
-              "RelativeDocumentMoniker": "Interfaces\\ICustomCollection.cs",
-              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Interfaces\\ICustomCollection.cs",
-              "RelativeToolTip": "Interfaces\\ICustomCollection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:38:24.615Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "TelephoneStation.cs",
-              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Entities\\TelephoneStation.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Entities\\TelephoneStation.cs",
               "RelativeDocumentMoniker": "Entities\\TelephoneStation.cs",
-              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Entities\\TelephoneStation.cs",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Entities\\TelephoneStation.cs",
               "RelativeToolTip": "Entities\\TelephoneStation.cs",
               "ViewState": "AgIAAGoAAAAAAAAAAAAYwHcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:37:58.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:37:58.544Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Tarrif.cs",
-              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Entities\\Tarrif.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Entities\\Tarrif.cs",
               "RelativeDocumentMoniker": "Entities\\Tarrif.cs",
-              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Entities\\Tarrif.cs",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Entities\\Tarrif.cs",
               "RelativeToolTip": "Entities\\Tarrif.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:37:46.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:37:46.241Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Journal.cs",
-              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Entities\\Journal.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Entities\\Journal.cs",
               "RelativeDocumentMoniker": "Entities\\Journal.cs",
-              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Entities\\Journal.cs",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Entities\\Journal.cs",
               "RelativeToolTip": "Entities\\Journal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:37:37.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:37:37.981Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Entities\\Client.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Entities\\Client.cs",
               "RelativeDocumentMoniker": "Entities\\Client.cs",
-              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Entities\\Client.cs",
               "RelativeToolTip": "Entities\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:37:29.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:37:29.238Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Call.cs",
-              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Entities\\Call.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Entities\\Call.cs",
               "RelativeDocumentMoniker": "Entities\\Call.cs",
-              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Entities\\Call.cs",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Entities\\Call.cs",
               "RelativeToolTip": "Entities\\Call.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:37:22.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:37:22.006Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ItemNotFounException.cs",
-              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\CustomException\\ItemNotFounException.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\CustomException\\ItemNotFounException.cs",
               "RelativeDocumentMoniker": "CustomException\\ItemNotFounException.cs",
-              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\CustomException\\ItemNotFounException.cs",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\CustomException\\ItemNotFounException.cs",
               "RelativeToolTip": "CustomException\\ItemNotFounException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:36:45.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:36:45.437Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ITelephoneStation.cs",
-              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Contracts\\ITelephoneStation.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Contracts\\ITelephoneStation.cs",
               "RelativeDocumentMoniker": "Contracts\\ITelephoneStation.cs",
-              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Contracts\\ITelephoneStation.cs",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Contracts\\ITelephoneStation.cs",
               "RelativeToolTip": "Contracts\\ITelephoneStation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:35:59.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:35:59.595Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "MyProject",
-              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\MyProject.csproj",
+              "Title": "MyProject.csproj",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\MyProject.csproj",
               "RelativeDocumentMoniker": "MyProject.csproj",
-              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\MyProject.csproj",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\MyProject.csproj",
               "RelativeToolTip": "MyProject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-29T15:35:35.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:35:35.475Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MyCustonCollection.cs",
-              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Collection\\MyCustonCollection.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Collection\\MyCustonCollection.cs",
               "RelativeDocumentMoniker": "Collection\\MyCustonCollection.cs",
-              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Collection\\MyCustonCollection.cs",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Collection\\MyCustonCollection.cs",
               "RelativeToolTip": "Collection\\MyCustonCollection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:35:06.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:35:06.132Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\353505_Danilau_lab2\\MyProject\\Program.cs",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T15:34:18.315Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICustomCollection.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Interfaces\\ICustomCollection.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICustomCollection.cs",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab2\\353505_Danilau_lab2\\MyProject\\Interfaces\\ICustomCollection.cs",
+              "RelativeToolTip": "Interfaces\\ICustomCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:38:24.615Z"
             }
           ]
         }
