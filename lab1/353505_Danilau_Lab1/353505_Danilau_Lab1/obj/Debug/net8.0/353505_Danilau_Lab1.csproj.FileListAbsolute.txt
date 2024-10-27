@@ -12,3 +12,18 @@ C:\Users\dimad\OneDrive\Рабочий стол\lab1\353505_Danilau_Lab1\353505_
 C:\Users\dimad\OneDrive\Рабочий стол\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\obj\Debug\net8.0\353505_Danilau_Lab1.pdb
 C:\Users\dimad\OneDrive\Рабочий стол\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\obj\Debug\net8.0\353505_Danilau_Lab1.genruntimeconfig.cache
 C:\Users\dimad\OneDrive\Рабочий стол\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\obj\Debug\net8.0\ref\353505_Danilau_Lab1.dll
+C:\Users\dimad\OneDrive\Документы\GitHub\tools-and-programming-tools-2nd-semester-\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\bin\Debug\net8.0\353505_Danilau_Lab1.exe
+C:\Users\dimad\OneDrive\Документы\GitHub\tools-and-programming-tools-2nd-semester-\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\bin\Debug\net8.0\353505_Danilau_Lab1.deps.json
+C:\Users\dimad\OneDrive\Документы\GitHub\tools-and-programming-tools-2nd-semester-\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\bin\Debug\net8.0\353505_Danilau_Lab1.runtimeconfig.json
+C:\Users\dimad\OneDrive\Документы\GitHub\tools-and-programming-tools-2nd-semester-\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\bin\Debug\net8.0\353505_Danilau_Lab1.dll
+C:\Users\dimad\OneDrive\Документы\GitHub\tools-and-programming-tools-2nd-semester-\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\bin\Debug\net8.0\353505_Danilau_Lab1.pdb
+C:\Users\dimad\OneDrive\Документы\GitHub\tools-and-programming-tools-2nd-semester-\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\obj\Debug\net8.0\353505_Danilau_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimad\OneDrive\Документы\GitHub\tools-and-programming-tools-2nd-semester-\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\obj\Debug\net8.0\353505_Danilau_Lab1.AssemblyInfoInputs.cache
+C:\Users\dimad\OneDrive\Документы\GitHub\tools-and-programming-tools-2nd-semester-\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\obj\Debug\net8.0\353505_Danilau_Lab1.AssemblyInfo.cs
+C:\Users\dimad\OneDrive\Документы\GitHub\tools-and-programming-tools-2nd-semester-\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\obj\Debug\net8.0\353505_Danilau_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\dimad\OneDrive\Документы\GitHub\tools-and-programming-tools-2nd-semester-\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\obj\Debug\net8.0\353505_Danilau_Lab1.sourcelink.json
+C:\Users\dimad\OneDrive\Документы\GitHub\tools-and-programming-tools-2nd-semester-\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\obj\Debug\net8.0\353505_Danilau_Lab1.dll
+C:\Users\dimad\OneDrive\Документы\GitHub\tools-and-programming-tools-2nd-semester-\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\obj\Debug\net8.0\refint\353505_Danilau_Lab1.dll
+C:\Users\dimad\OneDrive\Документы\GitHub\tools-and-programming-tools-2nd-semester-\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\obj\Debug\net8.0\353505_Danilau_Lab1.pdb
+C:\Users\dimad\OneDrive\Документы\GitHub\tools-and-programming-tools-2nd-semester-\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\obj\Debug\net8.0\353505_Danilau_Lab1.genruntimeconfig.cache
+C:\Users\dimad\OneDrive\Документы\GitHub\tools-and-programming-tools-2nd-semester-\lab1\353505_Danilau_Lab1\353505_Danilau_Lab1\obj\Debug\net8.0\ref\353505_Danilau_Lab1.dll

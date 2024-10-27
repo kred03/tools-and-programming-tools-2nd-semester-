@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimad\\OneDrive\\Рабочий стол\\353505_Danilau_lab3\\MyProject\\MyProject.csproj": {}
+    "C:\\Users\\dimad\\OneDrive\\Документы\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab3\\353505_Danilau_lab3\\MyProject\\MyProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimad\\OneDrive\\Рабочий стол\\353505_Danilau_lab3\\MyProject\\MyProject.csproj": {
+    "C:\\Users\\dimad\\OneDrive\\Документы\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab3\\353505_Danilau_lab3\\MyProject\\MyProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimad\\OneDrive\\Рабочий стол\\353505_Danilau_lab3\\MyProject\\MyProject.csproj",
+        "projectUniqueName": "C:\\Users\\dimad\\OneDrive\\Документы\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab3\\353505_Danilau_lab3\\MyProject\\MyProject.csproj",
         "projectName": "MyProject",
-        "projectPath": "C:\\Users\\dimad\\OneDrive\\Рабочий стол\\353505_Danilau_lab3\\MyProject\\MyProject.csproj",
+        "projectPath": "C:\\Users\\dimad\\OneDrive\\Документы\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab3\\353505_Danilau_lab3\\MyProject\\MyProject.csproj",
         "packagesPath": "C:\\Users\\dimad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimad\\OneDrive\\Рабочий стол\\353505_Danilau_lab3\\MyProject\\obj\\",
+        "outputPath": "C:\\Users\\dimad\\OneDrive\\Документы\\GitHub\\tools-and-programming-tools-2nd-semester-\\lab3\\353505_Danilau_lab3\\MyProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimad\\AppData\\Roaming\\NuGet\\NuGet.Config",

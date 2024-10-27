@@ -1,0 +1,14 @@
+C:\Users\dimad\OneDrive\Рабочий стол\lab4\Danilau_Lab4\bin\Debug\net8.0\Danilau_Lab4.exe
+C:\Users\dimad\OneDrive\Рабочий стол\lab4\Danilau_Lab4\bin\Debug\net8.0\Danilau_Lab4.deps.json
+C:\Users\dimad\OneDrive\Рабочий стол\lab4\Danilau_Lab4\bin\Debug\net8.0\Danilau_Lab4.runtimeconfig.json
+C:\Users\dimad\OneDrive\Рабочий стол\lab4\Danilau_Lab4\bin\Debug\net8.0\Danilau_Lab4.dll
+C:\Users\dimad\OneDrive\Рабочий стол\lab4\Danilau_Lab4\bin\Debug\net8.0\Danilau_Lab4.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\lab4\Danilau_Lab4\obj\Debug\net8.0\Danilau_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimad\OneDrive\Рабочий стол\lab4\Danilau_Lab4\obj\Debug\net8.0\Danilau_Lab4.AssemblyInfoInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\lab4\Danilau_Lab4\obj\Debug\net8.0\Danilau_Lab4.AssemblyInfo.cs
+C:\Users\dimad\OneDrive\Рабочий стол\lab4\Danilau_Lab4\obj\Debug\net8.0\Danilau_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\lab4\Danilau_Lab4\obj\Debug\net8.0\Danilau_Lab4.dll
+C:\Users\dimad\OneDrive\Рабочий стол\lab4\Danilau_Lab4\obj\Debug\net8.0\refint\Danilau_Lab4.dll
+C:\Users\dimad\OneDrive\Рабочий стол\lab4\Danilau_Lab4\obj\Debug\net8.0\Danilau_Lab4.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\lab4\Danilau_Lab4\obj\Debug\net8.0\Danilau_Lab4.genruntimeconfig.cache
+C:\Users\dimad\OneDrive\Рабочий стол\lab4\Danilau_Lab4\obj\Debug\net8.0\ref\Danilau_Lab4.dll

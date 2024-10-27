@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\Danilau_Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{829F7639-4142-4CEC-9265-4E66ED278D3C}|Danilau_Lab4.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\danilau_lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F7639-4142-4CEC-9265-4E66ED278D3C}|Danilau_Lab4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F7639-4142-4CEC-9265-4E66ED278D3C}|Danilau_Lab4.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\danilau_lab4\\resident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F7639-4142-4CEC-9265-4E66ED278D3C}|Danilau_Lab4.csproj|solutionrelative:resident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F7639-4142-4CEC-9265-4E66ED278D3C}|Danilau_Lab4.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\danilau_lab4\\mycustomcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F7639-4142-4CEC-9265-4E66ED278D3C}|Danilau_Lab4.csproj|solutionrelative:mycustomcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F7639-4142-4CEC-9265-4E66ED278D3C}|Danilau_Lab4.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\danilau_lab4\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F7639-4142-4CEC-9265-4E66ED278D3C}|Danilau_Lab4.csproj|solutionrelative:fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F7639-4142-4CEC-9265-4E66ED278D3C}|Danilau_Lab4.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\danilau_lab4\\interfaces\\iserializable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F7639-4142-4CEC-9265-4E66ED278D3C}|Danilau_Lab4.csproj|solutionrelative:interfaces\\iserializable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F7639-4142-4CEC-9265-4E66ED278D3C}|Danilau_Lab4.csproj|c:\\users\\dimad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\danilau_lab4\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F7639-4142-4CEC-9265-4E66ED278D3C}|Danilau_Lab4.csproj|solutionrelative:interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resident.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\Danilau_Lab4\\Resident.cs",
+              "RelativeDocumentMoniker": "Resident.cs",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\Danilau_Lab4\\Resident.cs",
+              "RelativeToolTip": "Resident.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:58:16.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCustomComparer.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\Danilau_Lab4\\MyCustomComparer.cs",
+              "RelativeDocumentMoniker": "MyCustomComparer.cs",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\Danilau_Lab4\\MyCustomComparer.cs",
+              "RelativeToolTip": "MyCustomComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:58:04.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\Danilau_Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\Danilau_Lab4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:57:39.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\Danilau_Lab4\\FileService.cs",
+              "RelativeDocumentMoniker": "FileService.cs",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\Danilau_Lab4\\FileService.cs",
+              "RelativeToolTip": "FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:57:25.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISerializable.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\Danilau_Lab4\\Interfaces\\ISerializable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISerializable.cs",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\Danilau_Lab4\\Interfaces\\ISerializable.cs",
+              "RelativeToolTip": "Interfaces\\ISerializable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:57:08.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\Danilau_Lab4\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFileService.cs",
+              "ToolTip": "C:\\Users\\dimad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab4\\Danilau_Lab4\\Interfaces\\IFileService.cs",
+              "RelativeToolTip": "Interfaces\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:56:37.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
