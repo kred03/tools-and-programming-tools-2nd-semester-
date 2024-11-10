@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HeatingSystems>
+  <HeatingSystem>
+    <Id>1</Id>
+    <BuildingName>Building A</BuildingName>
+    <HeatingUnits>
+      <HeatingUnit>
+        <Id>1</Id>
+        <UnitType>Boiler</UnitType>
+        <Power>150</Power>
+        <Location>Basement</Location>
+      </HeatingUnit>
+      <HeatingUnit>
+        <Id>2</Id>
+        <UnitType>Radiator</UnitType>
+        <Power>10.5</Power>
+        <Location>First Floor</Location>
+      </HeatingUnit>
+    </HeatingUnits>
+  </HeatingSystem>
+  <HeatingSystem>
+    <Id>2</Id>
+    <BuildingName>Building B</BuildingName>
+    <HeatingUnits>
+      <HeatingUnit>
+        <Id>3</Id>
+        <UnitType>Heat Pump</UnitType>
+        <Power>120</Power>
+        <Location>Outside</Location>
+      </HeatingUnit>
+      <HeatingUnit>
+        <Id>4</Id>
+        <UnitType>Radiator</UnitType>
+        <Power>15</Power>
+        <Location>Second Floor</Location>
+      </HeatingUnit>
+    </HeatingUnits>
+  </HeatingSystem>
+  <HeatingSystem>
+    <Id>3</Id>
+    <BuildingName>Building C</BuildingName>
+    <HeatingUnits>
+      <HeatingUnit>
+        <Id>5</Id>
+        <UnitType>Furnace</UnitType>
+        <Power>200</Power>
+        <Location>Garage</Location>
+      </HeatingUnit>
+    </HeatingUnits>
+  </HeatingSystem>
+</HeatingSystems>

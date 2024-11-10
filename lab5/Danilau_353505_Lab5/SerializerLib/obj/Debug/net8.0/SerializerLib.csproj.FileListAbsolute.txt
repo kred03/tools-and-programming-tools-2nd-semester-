@@ -1,0 +1,30 @@
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.AssemblyInfoInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.AssemblyInfo.cs
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.csproj.CoreCompileInputs.cache
+H:\test\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.GeneratedMSBuildEditorConfig.editorconfig
+H:\test\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.AssemblyInfoInputs.cache
+H:\test\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.AssemblyInfo.cs
+H:\test\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.csproj.CoreCompileInputs.cache
+H:\test\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.csproj.AssemblyReference.cache
+H:\test\Danilau_353505_Lab5\SerializerLib\bin\Debug\net8.0\SerializerLib.deps.json
+H:\test\Danilau_353505_Lab5\SerializerLib\bin\Debug\net8.0\SerializerLib.dll
+H:\test\Danilau_353505_Lab5\SerializerLib\bin\Debug\net8.0\SerializerLib.pdb
+H:\test\Danilau_353505_Lab5\SerializerLib\bin\Debug\net8.0\Danilau_353505_Lab5.Domain.dll
+H:\test\Danilau_353505_Lab5\SerializerLib\bin\Debug\net8.0\Danilau_353505_Lab5.Domain.pdb
+H:\test\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\Serializ.8EEFA712.Up2Date
+H:\test\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.dll
+H:\test\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\refint\SerializerLib.dll
+H:\test\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.pdb
+H:\test\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\ref\SerializerLib.dll
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab5\SerializerLib\bin\Debug\net8.0\SerializerLib.deps.json
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab5\SerializerLib\bin\Debug\net8.0\SerializerLib.dll
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab5\SerializerLib\bin\Debug\net8.0\SerializerLib.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab5\SerializerLib\bin\Debug\net8.0\Danilau_353505_Lab5.Domain.dll
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab5\SerializerLib\bin\Debug\net8.0\Danilau_353505_Lab5.Domain.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.csproj.AssemblyReference.cache
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\Serializ.8EEFA712.Up2Date
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.dll
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\refint\SerializerLib.dll
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab5\SerializerLib\obj\Debug\net8.0\ref\SerializerLib.dll

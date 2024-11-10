@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "BuildingName": "Building A",
+    "HeatingUnits": [
+      {
+        "Id": 1,
+        "UnitType": "Boiler",
+        "Power": 150,
+        "Location": "Basement"
+      },
+      {
+        "Id": 2,
+        "UnitType": "Radiator",
+        "Power": 10.5,
+        "Location": "First Floor"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "BuildingName": "Building B",
+    "HeatingUnits": [
+      {
+        "Id": 3,
+        "UnitType": "Heat Pump",
+        "Power": 120,
+        "Location": "Outside"
+      },
+      {
+        "Id": 4,
+        "UnitType": "Radiator",
+        "Power": 15,
+        "Location": "Second Floor"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "BuildingName": "Building C",
+    "HeatingUnits": [
+      {
+        "Id": 5,
+        "UnitType": "Furnace",
+        "Power": 200,
+        "Location": "Garage"
+      }
+    ]
+  }
+]
