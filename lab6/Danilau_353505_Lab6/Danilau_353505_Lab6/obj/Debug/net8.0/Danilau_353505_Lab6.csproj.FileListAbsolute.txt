@@ -1,0 +1,14 @@
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab6\Danilau_353505_Lab6\bin\Debug\net8.0\Danilau_353505_Lab6.exe
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab6\Danilau_353505_Lab6\bin\Debug\net8.0\Danilau_353505_Lab6.deps.json
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab6\Danilau_353505_Lab6\bin\Debug\net8.0\Danilau_353505_Lab6.runtimeconfig.json
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab6\Danilau_353505_Lab6\bin\Debug\net8.0\Danilau_353505_Lab6.dll
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab6\Danilau_353505_Lab6\bin\Debug\net8.0\Danilau_353505_Lab6.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab6\Danilau_353505_Lab6\obj\Debug\net8.0\Danilau_353505_Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab6\Danilau_353505_Lab6\obj\Debug\net8.0\Danilau_353505_Lab6.AssemblyInfoInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab6\Danilau_353505_Lab6\obj\Debug\net8.0\Danilau_353505_Lab6.AssemblyInfo.cs
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab6\Danilau_353505_Lab6\obj\Debug\net8.0\Danilau_353505_Lab6.csproj.CoreCompileInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab6\Danilau_353505_Lab6\obj\Debug\net8.0\Danilau_353505_Lab6.dll
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab6\Danilau_353505_Lab6\obj\Debug\net8.0\refint\Danilau_353505_Lab6.dll
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab6\Danilau_353505_Lab6\obj\Debug\net8.0\Danilau_353505_Lab6.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab6\Danilau_353505_Lab6\obj\Debug\net8.0\Danilau_353505_Lab6.genruntimeconfig.cache
+C:\Users\dimad\OneDrive\Рабочий стол\Danilau_353505_Lab6\Danilau_353505_Lab6\obj\Debug\net8.0\ref\Danilau_353505_Lab6.dll
