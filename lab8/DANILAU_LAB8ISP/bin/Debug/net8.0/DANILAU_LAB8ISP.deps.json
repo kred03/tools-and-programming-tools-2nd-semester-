@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DANILAU_LAB8ISP/1.0.0": {
+        "runtime": {
+          "DANILAU_LAB8ISP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DANILAU_LAB8ISP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

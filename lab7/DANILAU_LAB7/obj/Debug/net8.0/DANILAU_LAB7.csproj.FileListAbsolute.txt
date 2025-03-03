@@ -1,0 +1,72 @@
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.exe
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.deps.json
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.runtimeconfig.json
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.dll
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.pdb
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\bin\Debug\net8.0\IntegrationLibrary.dll
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\bin\Debug\net8.0\IntegrationLibrary.pdb
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.AssemblyInfo.cs
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_.29181331.Up2Date
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.dll
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\obj\Debug\net8.0\refint\DANILAU_LAB7.dll
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.pdb
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.genruntimeconfig.cache
+C:\Users\Admin\Desktop\VASKOVSKIJ_LAB7\DANILAU_LAB7\obj\Debug\net8.0\ref\DANILAU_LAB7.dll
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.exe
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.deps.json
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.runtimeconfig.json
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.dll
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.pdb
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\bin\Debug\net8.0\IntegrationLibrary.dll
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\bin\Debug\net8.0\IntegrationLibrary.pdb
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_.29181331.Up2Date
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.dll
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\refint\DANILAU_LAB7.dll
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.pdb
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\ref\DANILAU_LAB7.dll
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.exe
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.deps.json
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.runtimeconfig.json
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.dll
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\bin\Debug\net8.0\IntegrationLibrary.dll
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\bin\Debug\net8.0\IntegrationLibrary.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.csproj.AssemblyReference.cache
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.AssemblyInfoInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.AssemblyInfo.cs
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.csproj.CoreCompileInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_.29181331.Up2Date
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.dll
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\refint\DANILAU_LAB7.dll
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.genruntimeconfig.cache
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\DANILAU_LAB7\obj\Debug\net8.0\ref\DANILAU_LAB7.dll
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.exe
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.deps.json
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.runtimeconfig.json
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.dll
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\bin\Debug\net8.0\DANILAU_LAB7.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\bin\Debug\net8.0\IntegrationLibrary.dll
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\bin\Debug\net8.0\IntegrationLibrary.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.csproj.AssemblyReference.cache
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.AssemblyInfoInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.AssemblyInfo.cs
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.csproj.CoreCompileInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_.29181331.Up2Date
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.dll
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\obj\Debug\net8.0\refint\DANILAU_LAB7.dll
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\obj\Debug\net8.0\DANILAU_LAB7.genruntimeconfig.cache
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\DANILAU_LAB7\obj\Debug\net8.0\ref\DANILAU_LAB7.dll

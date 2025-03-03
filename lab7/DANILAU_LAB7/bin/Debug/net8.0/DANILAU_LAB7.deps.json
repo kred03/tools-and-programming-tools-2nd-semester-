@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DANILAU_LAB7/1.0.0": {
+        "dependencies": {
+          "IntegrationLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DANILAU_LAB7.dll": {}
+        }
+      },
+      "IntegrationLibrary/1.0.0": {
+        "runtime": {
+          "IntegrationLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DANILAU_LAB7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntegrationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

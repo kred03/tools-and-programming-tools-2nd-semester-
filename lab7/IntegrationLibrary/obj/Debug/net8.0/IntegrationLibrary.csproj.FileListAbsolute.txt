@@ -1,0 +1,33 @@
+C:\Users\Admin\Desktop\DANILAU_LAB7\IntegrationLibrary\bin\Debug\net8.0\IntegrationLibrary.deps.json
+C:\Users\Admin\Desktop\DANILAU_LAB7\IntegrationLibrary\bin\Debug\net8.0\IntegrationLibrary.dll
+C:\Users\Admin\Desktop\DANILAU_LAB7\IntegrationLibrary\bin\Debug\net8.0\IntegrationLibrary.pdb
+C:\Users\Admin\Desktop\DANILAU_LAB7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DANILAU_LAB7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DANILAU_LAB7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DANILAU_LAB7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DANILAU_LAB7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.dll
+C:\Users\Admin\Desktop\DANILAU_LAB7\IntegrationLibrary\obj\Debug\net8.0\refint\IntegrationLibrary.dll
+C:\Users\Admin\Desktop\DANILAU_LAB7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.pdb
+C:\Users\Admin\Desktop\DANILAU_LAB7\IntegrationLibrary\obj\Debug\net8.0\ref\IntegrationLibrary.dll
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\IntegrationLibrary\bin\Debug\net8.0\IntegrationLibrary.deps.json
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\IntegrationLibrary\bin\Debug\net8.0\IntegrationLibrary.dll
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\IntegrationLibrary\bin\Debug\net8.0\IntegrationLibrary.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.AssemblyInfoInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.AssemblyInfo.cs
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.dll
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\IntegrationLibrary\obj\Debug\net8.0\refint\IntegrationLibrary.dll
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAU_LAB7\IntegrationLibrary\obj\Debug\net8.0\ref\IntegrationLibrary.dll
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\IntegrationLibrary\bin\Debug\net8.0\IntegrationLibrary.deps.json
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\IntegrationLibrary\bin\Debug\net8.0\IntegrationLibrary.dll
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\IntegrationLibrary\bin\Debug\net8.0\IntegrationLibrary.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.AssemblyInfoInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.AssemblyInfo.cs
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.dll
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\IntegrationLibrary\obj\Debug\net8.0\refint\IntegrationLibrary.dll
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\IntegrationLibrary\obj\Debug\net8.0\IntegrationLibrary.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\lab7\IntegrationLibrary\obj\Debug\net8.0\ref\IntegrationLibrary.dll

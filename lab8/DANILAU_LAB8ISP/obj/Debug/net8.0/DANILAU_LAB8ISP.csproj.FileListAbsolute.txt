@@ -1,0 +1,56 @@
+C:\Users\Admin\Desktop\VASKOVSKIJLAB8ISP\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.exe
+C:\Users\Admin\Desktop\VASKOVSKIJLAB8ISP\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.deps.json
+C:\Users\Admin\Desktop\VASKOVSKIJLAB8ISP\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.runtimeconfig.json
+C:\Users\Admin\Desktop\VASKOVSKIJLAB8ISP\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.dll
+C:\Users\Admin\Desktop\VASKOVSKIJLAB8ISP\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.pdb
+C:\Users\Admin\Desktop\VASKOVSKIJLAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\VASKOVSKIJLAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\VASKOVSKIJLAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.AssemblyInfo.cs
+C:\Users\Admin\Desktop\VASKOVSKIJLAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\VASKOVSKIJLAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.dll
+C:\Users\Admin\Desktop\VASKOVSKIJLAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\refint\DANILAU_LAB8ISP.dll
+C:\Users\Admin\Desktop\VASKOVSKIJLAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.pdb
+C:\Users\Admin\Desktop\VASKOVSKIJLAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.genruntimeconfig.cache
+C:\Users\Admin\Desktop\VASKOVSKIJLAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\ref\DANILAU_LAB8ISP.dll
+C:\Users\Admin\Desktop\DANILAULAB8ISP\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.exe
+C:\Users\Admin\Desktop\DANILAULAB8ISP\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.deps.json
+C:\Users\Admin\Desktop\DANILAULAB8ISP\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.runtimeconfig.json
+C:\Users\Admin\Desktop\DANILAULAB8ISP\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.dll
+C:\Users\Admin\Desktop\DANILAULAB8ISP\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.pdb
+C:\Users\Admin\Desktop\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.dll
+C:\Users\Admin\Desktop\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\refint\DANILAU_LAB8ISP.dll
+C:\Users\Admin\Desktop\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.pdb
+C:\Users\Admin\Desktop\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\ref\DANILAU_LAB8ISP.dll
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAULAB8ISP\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.exe
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAULAB8ISP\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.deps.json
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAULAB8ISP\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.runtimeconfig.json
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAULAB8ISP\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.dll
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAULAB8ISP\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.AssemblyInfoInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.AssemblyInfo.cs
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.csproj.CoreCompileInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.dll
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\refint\DANILAU_LAB8ISP.dll
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.genruntimeconfig.cache
+C:\Users\dimad\OneDrive\Рабочий стол\DANILAULAB8ISP\DANILAU_LAB8ISP\obj\Debug\net8.0\ref\DANILAU_LAB8ISP.dll
+C:\Users\dimad\OneDrive\Рабочий стол\lab8\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.exe
+C:\Users\dimad\OneDrive\Рабочий стол\lab8\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.deps.json
+C:\Users\dimad\OneDrive\Рабочий стол\lab8\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.runtimeconfig.json
+C:\Users\dimad\OneDrive\Рабочий стол\lab8\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.dll
+C:\Users\dimad\OneDrive\Рабочий стол\lab8\DANILAU_LAB8ISP\bin\Debug\net8.0\DANILAU_LAB8ISP.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\lab8\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimad\OneDrive\Рабочий стол\lab8\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.AssemblyInfoInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\lab8\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.AssemblyInfo.cs
+C:\Users\dimad\OneDrive\Рабочий стол\lab8\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.csproj.CoreCompileInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\lab8\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.dll
+C:\Users\dimad\OneDrive\Рабочий стол\lab8\DANILAU_LAB8ISP\obj\Debug\net8.0\refint\DANILAU_LAB8ISP.dll
+C:\Users\dimad\OneDrive\Рабочий стол\lab8\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\lab8\DANILAU_LAB8ISP\obj\Debug\net8.0\DANILAU_LAB8ISP.genruntimeconfig.cache
+C:\Users\dimad\OneDrive\Рабочий стол\lab8\DANILAU_LAB8ISP\obj\Debug\net8.0\ref\DANILAU_LAB8ISP.dll
